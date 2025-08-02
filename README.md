@@ -25,6 +25,8 @@
 
 - 🌱 Currently learning and exploring the **blockchain space**, with a focus on backend systems.
 
+- 📚 Learning large language models and RAG.
+
 - 💬 Ask me about **programming**, **backend development**, or anything tech — learning together is always better.
 
 ---
