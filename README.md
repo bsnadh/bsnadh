@@ -12,7 +12,7 @@
   <a href="https://twitter.com/bsn_adh">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="#">
+  <a href="https://bishnu.hashnode.dev/">
     <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog Badge"/>
   </a>
 </p>
